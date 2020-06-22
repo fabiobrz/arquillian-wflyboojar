@@ -1,0 +1,4 @@
+/arquillian-wildfly-boojar-parent.iml
+/arquillian-wildfly-boojar-container-managed/arquillian-wildfly-boojar-container-managed.iml
+/arquillian-wildfly-boojar-container-managed/target/
+/.idea/
